@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculadoraJY</string>
+    <string name="ancla">Anchor</string>
+    <string name="baño">Bath</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">Quantity</string>
+    <string name="cantidadUnidad">Numbers of unity</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="dije">Charms</string>
+    <string name="dolares">Dollars</string>
+    <string name="martillo">Hammer</string>
+    <string name="material">Material</string>
+    <string name="mensajeError1">You have not typed the number of handles you wish to buy</string>
+    <string name="mensjaeError2">Zero is not an amount to calculate</string>
+    <string name="oro">Gold or Pink Gold</string>
+    <string name="pesosColombianos">COP</string>
+    <string name="plata">Silver</string>
+    <string name="titulo">Title</string>
+    <string name="unitario">The value per unit is:</string>
+    <string name="valor">The value of the purchase is:</string>
+    <string name="niquel">Nickel</string>
+</resources>

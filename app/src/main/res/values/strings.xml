@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CalculadoraJY</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="pesosColombianos">Pesos</string>
+    <string name="dolares">Dolares</string>
+    <string name="valor">El valor de la compra es:</string>
+    <string name="titulo">Digite cantidad de manillas a comprar</string>
+    <string name="material">Seleccione el material de la manilla</string>
+    <string name="dije">Seleccione el estilo del dije</string>
+    <string name="baño">Selecciona el tipo de baño para la manilla</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="cuero">Cuero</string>
+    <string name="oro">oro u oro osado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="ancla">Ancla</string>
+    <string name="martillo">Martillo</string>
+    <string name="mensajeError1">No ha digitado la cantidad de manillas que desea comprar</string>
+    <string name="mensjaeError2"> cero no es una cantidad para calcular</string>
+     <string name="unitario">El valor por unidad es:</string>
+    <string name="cantidadUnidad">Cantidad de unidades</string>
+    <string name="cantidad">La cantidad a comprar es:</string>
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="banos">
+        <item>@string/oro</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="divisas">
+        <item>@string/dolares</item>
+        <item>@string/pesosColombianos</item>
+    </string-array>
+
+</resources>
